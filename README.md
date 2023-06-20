@@ -1,2 +1,2 @@
 # BovdGFE
-The dataset and source code of BovdGFE
+The dataset of BovdGFE
